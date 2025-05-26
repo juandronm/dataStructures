@@ -1,0 +1,3 @@
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/nameOfStudents_usingStacks/cmake-build-debug/CMakeFiles/nameOfStudents_usingStacks.dir
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/nameOfStudents_usingStacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/nameOfStudents_usingStacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
