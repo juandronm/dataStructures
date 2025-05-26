@@ -1,0 +1,3 @@
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/LinkedListsWithTailsLab7_bymyown/cmake-build-debug/CMakeFiles/LinkedListsWithTailsLab7_bymyown.dir
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/LinkedListsWithTailsLab7_bymyown/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/LinkedListsWithTailsLab7_bymyown/cmake-build-debug/CMakeFiles/rebuild_cache.dir
