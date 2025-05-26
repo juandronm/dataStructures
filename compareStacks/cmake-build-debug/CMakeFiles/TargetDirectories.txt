@@ -1,0 +1,3 @@
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/compareStacks/cmake-build-debug/CMakeFiles/compareStacks.dir
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/compareStacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juanr/OneDrive/Escritorio/VERI YAPILARI/FINAL PRAKTIK/compareStacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
